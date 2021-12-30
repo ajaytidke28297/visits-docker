@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/ajaytidke28297/visits-docker.git",
   "author": "Ajay tidke",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "redis": "4.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }
