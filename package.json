@@ -1,0 +1,8 @@
+{
+  "name": "visits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ajaytidke28297/visits-docker.git",
+  "author": "Ajay tidke",
+  "license": "MIT"
+}
