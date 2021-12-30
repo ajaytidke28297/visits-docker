@@ -3,5 +3,6 @@ services:
     image: "redis"
   node-app:
     build: .
+    restart: on-failure
     ports:
       - "4081:9081"
